@@ -31,6 +31,7 @@ namespace COMP003B.LectureActivity4
                 .WithStaticAssets();
 
             app.Run();
+
         }
     }
 }
